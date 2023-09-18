@@ -1,0 +1,17 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Poppins:wght@500&family=Roboto:wght@500&family=Ubuntu&display=swap');
+  @import url('https://googleapis.com/css2?family=Varela+Round&display=swap');
+
+
+body {
+    background-color: antiquewhite;
+}
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+nav{
+    font-family: 'ubuntu', sans-serif;
+}
